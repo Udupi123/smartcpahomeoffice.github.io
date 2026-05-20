@@ -1,0 +1,9 @@
+
+body{font-family:Arial,sans-serif;margin:0;color:#1d2d44;background:#f8fafc}
+header{background:#102a43;color:white;padding:60px 30px;text-align:center}
+nav{background:#243b53;padding:12px;text-align:center}
+nav a{color:white;margin:0 12px;text-decoration:none}
+.container{padding:40px}
+.card{background:white;padding:20px;margin:15px 0;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+.btn{background:#102a43;color:white;padding:12px 18px;text-decoration:none;border-radius:6px}
+footer{background:#102a43;color:white;padding:20px;text-align:center}
